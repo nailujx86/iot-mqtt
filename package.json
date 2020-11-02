@@ -1,0 +1,22 @@
+{
+  "name": "iot-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailujx86/iot-mqtt.git"
+  },
+  "author": "Julian Blazek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nailujx86/iot-mqtt/issues"
+  },
+  "homepage": "https://github.com/nailujx86/iot-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^4.2.4"
+  }
+}
